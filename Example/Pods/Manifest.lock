@@ -5,7 +5,7 @@ PODS:
     - FBSnapshotTestCase
   - FBSnapshotTestCase (1.1)
   - Specta (0.2.1)
-  - travis-ci-demo (0.1.0)
+  - travis-ci-demo (0.0.1)
 
 DEPENDENCIES:
   - Expecta
@@ -23,6 +23,6 @@ SPEC CHECKSUMS:
   Expecta+Snapshots: 30c28e3d8104665ee70e32df1cfc030bb37a8a6c
   FBSnapshotTestCase: 9053afee1d66b4c7c313fcb0ae582a5e47bea9d0
   Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
-  travis-ci-demo: 370d972a227be8e5051d353eced4d9b2063d0099
+  travis-ci-demo: 260976d860f338b4e8698d9cbbb474a1c58569a3
 
 COCOAPODS: 0.33.1
