@@ -1,6 +1,6 @@
 # travis-ci-demo
 
-[![CI Status](http://img.shields.io/travis/Simon Li/travis-ci-demo.svg?style=flat)](https://travis-ci.org/Simon Li/travis-ci-demo)
+[![CI Status](http://img.shields.io/travis/siutsin/travis-ci-demo.svg?style=flat)](https://travis-ci.org/siutsin/travis-ci-demo)
 [![Version](https://img.shields.io/cocoapods/v/travis-ci-demo.svg?style=flat)](http://cocoadocs.org/docsets/travis-ci-demo)
 [![License](https://img.shields.io/cocoapods/l/travis-ci-demo.svg?style=flat)](http://cocoadocs.org/docsets/travis-ci-demo)
 [![Platform](https://img.shields.io/cocoapods/p/travis-ci-demo.svg?style=flat)](http://cocoadocs.org/docsets/travis-ci-demo)
