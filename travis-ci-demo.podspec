@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "travis-ci-demo"
-  s.version          = "0.1.0"
+  s.version          = "0.0.1"
   s.summary          = "A short description of travis-ci-demo."
   s.description      = <<-DESC
                        An optional longer description of travis-ci-demo
@@ -17,12 +17,12 @@ Pod::Spec.new do |s|
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/travis-ci-demo"
+  s.homepage         = "https://github.com/siutsin/travis-ci-demo"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Simon Li" => "simon824@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/travis-ci-demo.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/siutsin/travis-ci-demo.git", :tag => s.version.to_s }
+  # s.social_media_url = 'https://twitter.com/simon__li'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
