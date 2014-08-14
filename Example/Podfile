@@ -1,0 +1,12 @@
+target 'travis-ci-demo', :exclusive => true do
+  pod "travis-ci-demo", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "travis-ci-demo", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+end
