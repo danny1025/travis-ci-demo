@@ -20,7 +20,7 @@ it, simply add the following line to your Podfile:
 
 ## Author
 
-Simon Li, simonli@fimmick.com
+Simon Li, simon824@gmail.com
 
 ## License
 

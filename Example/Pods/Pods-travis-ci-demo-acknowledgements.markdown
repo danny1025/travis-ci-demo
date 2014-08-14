@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## travis-ci-demo
 
-Copyright (c) 2014 Simon Li <simonli@fimmick.com>
+Copyright (c) 2014 Simon Li <simon824@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
